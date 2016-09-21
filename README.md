@@ -6,7 +6,7 @@ This repository contains blender files that I want to share.
 
 The actual content is the following:
 
-- `minor-bob.blend`, a character I used in my INF3135 class for the Winter 2016
+- `minor-bob.blend`, a character I used in my INF5071 class for the fall 2016
   semester. Bob is a minor that mines stones.
 
 ## License
