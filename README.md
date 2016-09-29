@@ -6,8 +6,11 @@ This repository contains blender files that I want to share.
 
 The actual content is the following:
 
-- `minor-bob.blend`, a character I used in my INF3135 class for the Winter 2016
+- `minor-bob`, a character I used in my INF3135 class for the Winter 2016
   semester. Bob is a minor that mines stones.
+- `race-car`, an animation of a car racing through a track. Note that the image
+  used has been found on
+  [Gamasutra](http://www.gamasutra.com/view/feature/6477/a_rational_approach_to_racing_game_.php?print=1)
 
 ## License
 
