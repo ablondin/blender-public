@@ -7,10 +7,14 @@ This repository contains blender files that I want to share.
 The actual content is the following:
 
 - `minor-bob`, a character I used in my INF3135 class for the Winter 2016
-  semester. Bob is a minor that mines stones.
+  semester. Bob is a minor that mines stones. Right now, there are two
+  available animations: walking and jumping.
 - `race-car`, an animation of a car racing through a track. Note that the image
   used has been found on
   [Gamasutra](http://www.gamasutra.com/view/feature/6477/a_rational_approach_to_racing_game_.php?print=1)
+- `cubes`, a Blender file and a script that allows one to generate random pile
+  of cubes with materials.
+- `plant`, another Blender project that allows one to generate fractal plants.
 
 ## License
 
